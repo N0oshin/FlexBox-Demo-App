@@ -16,7 +16,7 @@ This tool allows users to dynamically adjust key Flexbox properties using a simp
 
 ### 🔗 Live Demo
 
-👉 [View the Live App](https://your-github-username.github.io/flexbox-demo)
+👉 [View the Live App](https://n0oshin.github.io/FlexBox-Demo-App/)
 
 
 
